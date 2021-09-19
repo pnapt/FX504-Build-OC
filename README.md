@@ -46,6 +46,9 @@ https://dortania.github.io/OpenCore-Install-Guide/
 __Thanks to __  
 People who made opencore project and kext
 https://github.com/acidanthera/ for Opencore
+
 https://github.com/PoomSmart for guide fx504 :https://github.com/PoomSmart/ASUS-FX504GE-Hackintosh
+
 https://github.com/wilsomwong for made cool EFI :https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh
+
 https://github.com/dongcodebmt for guide opencore laptop https://github.com/dongcodebmt/VX5-591G-OpenCore
