@@ -30,9 +30,11 @@ __What works__
 - [x] Sleep/Wake
 - [x] Keyboard + TouchPad gestures
 - [ ] Webcam
+
 __Not work__
 - [ ] dGPU
 - [ ] Bluetooth
+
 __Bugs__
 - [ ] Wifi sometime not work
 - [ ] Hdmi sometime not work
