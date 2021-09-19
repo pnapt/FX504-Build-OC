@@ -19,7 +19,6 @@ __My Setup/configuration__
 __More Laptop info__
 
 | Sound | Realtek ALC255 |
-
 | HDD 2.5 | 1TB |
 
 __What works__
@@ -42,10 +41,10 @@ __Bugs__
 - [ ] Wifi sometime not work
 - [ ] Hdmi sometime not work
 
-##More info
+## More info
 https://dortania.github.io/OpenCore-Install-Guide/  
 
-##Credit
+## Credit
 __Thanks to __  
 People who made opencore project and kext
 https://github.com/acidanthera/ for Opencore
