@@ -7,6 +7,7 @@ __My Setup/configuration__
 | Specs | Details |
 |------------|-------------------------------|
 | Model | ASUS FX504GD |
+| BIOS Ver | 320 |
 | macOS | Big Sur Version 11.5.2 (Build 20G95) |
 | Dual boot OS | Windows 10 21H1 |
 | Processor | Intel Core i5 8300H |
