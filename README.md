@@ -17,8 +17,11 @@ __My Setup/configuration__
 | Wifi | Intel Wireless-AC 9560 |
 
 __More Laptop info__
+
 | Sound | Realtek ALC255 |
+
 | HDD 2.5 | 1TB |
+
 __What works__
 - [x] Intel UHD Graphics 630 + HDMI ___Audio Not Tested!___
 - [x] Screen brightness + fnkeys
