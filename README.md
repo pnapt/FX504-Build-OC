@@ -17,7 +17,8 @@ __My Setup/configuration__
 | Wifi | Intel Wireless-AC 9560 |
 
 __More Laptop info__
-
+| Specs | Details |
+|------------|-------------------------------|
 | Sound | Realtek ALC255 |
 | HDD 2.5 | 1TB |
 
