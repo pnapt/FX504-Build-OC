@@ -48,6 +48,7 @@ https://dortania.github.io/OpenCore-Install-Guide/
 ## Credit
 __Thanks to __  
 People who made opencore project and kext
+
 https://github.com/acidanthera/ for Opencore
 
 https://github.com/PoomSmart for guide fx504 :https://github.com/PoomSmart/ASUS-FX504GE-Hackintosh
