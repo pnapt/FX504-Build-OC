@@ -42,13 +42,13 @@ my modify config that work with FX504GD i5 model
 - [x] Shutdown
 - [x] Build in Keyboard
 - [x] Webcam
-- [x]trackpad+gestures
+- [x] trackpad+gestures
+
 **Not work**
-- [ ] dGPU
-- [ ] Bluetooth
+- [ ] dGPU (of course apple have ended support)
+- [ ] Bluetooth 
 **Bugs**
-- [ ] Wifi sometime not work
-- [ ] Hdmi sometime not work
+in commit
 
 ## Opencore config setups
 SMbios MacbookPro15,2
