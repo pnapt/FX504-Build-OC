@@ -38,7 +38,8 @@ my modify config that work with FX504GD i5 model
 - [x] M.2 NVME + 2.5" HDD
 - [x] Battery status
 - [x] Sleep/Wake
-- [x] Keyboard + 
+- [x] Shutdown
+- [x] Build in Keyboard
 - [x] Webcam
 - [x]trackpad+gestures
 **Not work**
@@ -50,6 +51,7 @@ my modify config that work with FX504GD i5 model
 
 ## Opencore config setups
 SMbios MacbookPro15,2
+
 **More info**
 - https://dortania.github.io/OpenCore-Install-Guide/  
 
