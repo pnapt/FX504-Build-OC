@@ -1,7 +1,6 @@
 # ASUS-FX504GD-Hackintosh
 > my modify config that work with FX504GD i5 model
-
-(/placeholder01.png)
+<img src="https://github.com/pnapt/ASUS-FX504GD-Hackintosh/blob/main/placeholder01.png"/>
 
 ## Disclaimer
 > Do as your own risk
