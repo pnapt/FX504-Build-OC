@@ -1,4 +1,4 @@
-# ASUS-FX504GD-Hackintosh
+## ASUS-FX504GD-Hackintosh
 my config on asus fx504gd
 ## Disclaimer
 Do as your own risk
