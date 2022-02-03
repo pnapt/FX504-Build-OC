@@ -1,5 +1,7 @@
 ## ASUS-FX504GD-Hackintosh
 my config on asus fx504gd
+(/image.png)
+
 ## Disclaimer
 Do as your own risk
 ## Info
@@ -43,7 +45,10 @@ __Bugs__
 - [ ] Wifi sometime not work
 - [ ] Hdmi sometime not work
 
-## More info
+## Opencore config setups
+SMbios MacbookPro15,2
+
+# More info
 https://dortania.github.io/OpenCore-Install-Guide/  
 
 ## Misc Fixes
@@ -51,13 +56,15 @@ https://dortania.github.io/OpenCore-Install-Guide/
 
 
 ## Credit
-__Thanks to __  
-People who made opencore project and kext
-
+# __Thanks to __  
+# People who made opencore project and kext
 - https://github.com/acidanthera/ for Opencore
-
-- https://github.com/PoomSmart for guide fx504 :https://github.com/PoomSmart/ASUS-FX504GE-Hackintosh
-
-- https://github.com/wilsomwong for made cool EFI :https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh
-
-- https://github.com/dongcodebmt for guide opencore laptop :https://github.com/dongcodebmt/VX5-591G-OpenCore
+# People who made config for this laptop
+- https://github.com/PoomSmart for guide fx504 
+Repo:https://github.com/PoomSmart/ASUS-FX504GE-Hackintosh
+- https://github.com/wilsomwong for made cool EFI 
+Repo:https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh
+- https://github.com/dongcodebmt for guide opencore laptop 
+Repo:https://github.com/dongcodebmt/VX5-591G-OpenCore
+- https://github.com/RobyRew for new hdmi patch fx504 
+Repo:https://github.com/RobyRew/ASUS-FX504GE-Hackintosh_OpenCore
