@@ -1,5 +1,6 @@
 ## ASUS-FX504GD-Hackintosh
 my config on asus fx504gd
+
 (/image.png)
 
 ## Disclaimer
@@ -56,15 +57,15 @@ https://dortania.github.io/OpenCore-Install-Guide/
 
 
 ## Credit
-# __Thanks to __  
+# Thanks to
 # People who made opencore project and kext
 - https://github.com/acidanthera/ for Opencore
 # People who made config for this laptop
 - https://github.com/PoomSmart for guide fx504 
-Repo:https://github.com/PoomSmart/ASUS-FX504GE-Hackintosh
+    Repo:https://github.com/PoomSmart/ASUS-FX504GE-Hackintosh
 - https://github.com/wilsomwong for made cool EFI 
-Repo:https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh
+    Repo:https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh
 - https://github.com/dongcodebmt for guide opencore laptop 
-Repo:https://github.com/dongcodebmt/VX5-591G-OpenCore
+    Repo:https://github.com/dongcodebmt/VX5-591G-OpenCore
 - https://github.com/RobyRew for new hdmi patch fx504 
-Repo:https://github.com/RobyRew/ASUS-FX504GE-Hackintosh_OpenCore
+    Repo:https://github.com/RobyRew/ASUS-FX504GE-Hackintosh_OpenCore
