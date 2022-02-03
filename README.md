@@ -61,8 +61,10 @@ SMbios MacbookPro15,2
 
 # Credit
 ## Thanks to
+
 **People who made opencore project and kext**
 https://github.com/acidanthera/ for Opencore
+
 **People who made config for this laptop**
 - https://github.com/PoomSmart for guide fx504 
     Repo:https://github.com/PoomSmart/ASUS-FX504GE-Hackintosh
