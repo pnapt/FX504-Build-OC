@@ -1,11 +1,12 @@
-## ASUS-FX504GD-Hackintosh
-> my config on asus fx504gd
+# ASUS-FX504GD-Hackintosh
+> my modify config that work with FX504GD i5 model
 
 (/image.png)
 
 ## Disclaimer
 > Do as your own risk
-## Info
+
+# Info
 **My Setup/configuration**
 | Specs | Details |
 |------------|-------------------------------|
@@ -45,21 +46,21 @@
 ## Opencore config setups
 SMbios MacbookPro15,2
 **More info**
-https://dortania.github.io/OpenCore-Install-Guide/  
+- https://dortania.github.io/OpenCore-Install-Guide/  
 
 **Misc Fixes**
-Fix Dualboot timezone: https://www.tonymacx86.com/threads/fix-incorrect-time-in-windows-osx-dual-boot.133719/  
+- Fix Dualboot timezone: https://www.tonymacx86.com/threads/fix-incorrect-time-in-windows-osx-dual-boot.133719/  
 
-## Credit
-# Thanks to
+# Credit
+## Thanks to
 **People who made opencore project and kext**
 https://github.com/acidanthera/ for Opencore
 **People who made config for this laptop**
-https://github.com/PoomSmart for guide fx504 
+- https://github.com/PoomSmart for guide fx504 
     Repo:https://github.com/PoomSmart/ASUS-FX504GE-Hackintosh
-https://github.com/wilsomwong for made cool EFI 
+- https://github.com/wilsomwong for made cool EFI 
     Repo:https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh
-https://github.com/dongcodebmt for guide opencore laptop 
+- https://github.com/dongcodebmt for guide opencore laptop 
     Repo:https://github.com/dongcodebmt/VX5-591G-OpenCore
-https://github.com/RobyRew for new hdmi patch fx504 
+- https://github.com/RobyRew for new hdmi patch fx504 
     Repo:https://github.com/RobyRew/ASUS-FX504GE-Hackintosh_OpenCore
