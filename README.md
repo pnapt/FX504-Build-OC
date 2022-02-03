@@ -1,7 +1,7 @@
 # ASUS-FX504GD-Hackintosh
 my modify config that work with FX504GD i5 model
 > My laptop issue
-    webcam not working even in windows o i cant test it
+    webcam not working even in windows so i cant test it
 
 <img src="https://github.com/pnapt/ASUS-FX504GD-Hackintosh/blob/main/placeholder01.png"/>
 
