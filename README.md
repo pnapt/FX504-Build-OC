@@ -2,6 +2,7 @@
 my modify config that work with FX504GD i5 model
 > Archive EFI 
     https://drive.google.com/drive/folders/1PhjAvpW_ok6pH14waik0sjYFQl8xssbo
+
 > My laptop issue
     webcam not working even in windows so i cant test it
 
