@@ -1,12 +1,12 @@
 ## ASUS-FX504GD-Hackintosh
-my config on asus fx504gd
+> my config on asus fx504gd
 
 (/image.png)
 
 ## Disclaimer
-Do as your own risk
+> Do as your own risk
 ## Info
-__My Setup/configuration__
+**My Setup/configuration**
 | Specs | Details |
 |------------|-------------------------------|
 | Model | ASUS FX504GD |
@@ -19,14 +19,12 @@ __My Setup/configuration__
 | iGPU | Intel UHD Graphics 630 |
 | dGPU | NVIDIA GeForce GTX 1050 |
 | Wifi | Intel Wireless-AC 9560 |
-
-__More Laptop info__
+**More Laptop info**
 | Specs | Details |
 |------------|-------------------------------|
 | Sound | Realtek ALC255 |
 | HDD 2.5 | 1TB |
-
-__What works__
+**What works**
 - [x] Intel UHD Graphics 630 + HDMI ___Audio Not Tested!___
 - [x] Screen brightness + fnkeys
 - [x] Audio (Speaker + Internal Mic + Headphone + External Mic)
@@ -37,35 +35,31 @@ __What works__
 - [x] Sleep/Wake
 - [x] Keyboard + TouchPad gestures
 - [ ] Webcam
-
-__Not work__
+**Not work**
 - [ ] dGPU
 - [ ] Bluetooth
-
-__Bugs__
+**Bugs**
 - [ ] Wifi sometime not work
 - [ ] Hdmi sometime not work
 
 ## Opencore config setups
 SMbios MacbookPro15,2
-
-# More info
+**More info**
 https://dortania.github.io/OpenCore-Install-Guide/  
 
-## Misc Fixes
-- Fix Dualboot timezone: https://www.tonymacx86.com/threads/fix-incorrect-time-in-windows-osx-dual-boot.133719/  
-
+**Misc Fixes**
+Fix Dualboot timezone: https://www.tonymacx86.com/threads/fix-incorrect-time-in-windows-osx-dual-boot.133719/  
 
 ## Credit
 # Thanks to
-# People who made opencore project and kext
-- https://github.com/acidanthera/ for Opencore
-# People who made config for this laptop
-- https://github.com/PoomSmart for guide fx504 
+**People who made opencore project and kext**
+https://github.com/acidanthera/ for Opencore
+**People who made config for this laptop**
+https://github.com/PoomSmart for guide fx504 
     Repo:https://github.com/PoomSmart/ASUS-FX504GE-Hackintosh
-- https://github.com/wilsomwong for made cool EFI 
+https://github.com/wilsomwong for made cool EFI 
     Repo:https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh
-- https://github.com/dongcodebmt for guide opencore laptop 
+https://github.com/dongcodebmt for guide opencore laptop 
     Repo:https://github.com/dongcodebmt/VX5-591G-OpenCore
-- https://github.com/RobyRew for new hdmi patch fx504 
+https://github.com/RobyRew for new hdmi patch fx504 
     Repo:https://github.com/RobyRew/ASUS-FX504GE-Hackintosh_OpenCore
