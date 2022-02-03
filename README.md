@@ -28,7 +28,8 @@ my modify config that work with FX504GD i5 model
 |------------|-------------------------------|
 | Sound | Realtek ALC255 |
 | HDD 2.5 | 1TB |
-**Working**
+
+**Works**
 - [x] Ethernet(LAN) 
 - [x] Wifi (sometime wont work in 1st boot)
 - [x] Intel UHD Graphics 630 + HDMI (sometime wont work in 1st boot) ___Audio Not Tested!___
