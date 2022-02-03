@@ -1,5 +1,8 @@
 # ASUS-FX504GD-Hackintosh
-> my modify config that work with FX504GD i5 model
+my modify config that work with FX504GD i5 model
+> My laptop issue
+    webcam not working even in windows o i cant test it
+
 <img src="https://github.com/pnapt/ASUS-FX504GD-Hackintosh/blob/main/placeholder01.png"/>
 
 ## Disclaimer
@@ -10,7 +13,7 @@
 | Specs | Details |
 |------------|-------------------------------|
 | Model | ASUS FX504GD |
-| BIOS Ver | 320 |
+| BIOS Ver | 322 |
 | macOS | Big Sur Version 11.5.2 (Build 20G95) |
 | Dual boot OS | Windows 10 21H1 |
 | Processor | Intel Core i5 8300H |
@@ -19,22 +22,25 @@
 | iGPU | Intel UHD Graphics 630 |
 | dGPU | NVIDIA GeForce GTX 1050 |
 | Wifi | Intel Wireless-AC 9560 |
+
 **More Laptop info**
-| Specs | Details |
+| Hardware | Details |
 |------------|-------------------------------|
 | Sound | Realtek ALC255 |
 | HDD 2.5 | 1TB |
-**What works**
-- [x] Intel UHD Graphics 630 + HDMI ___Audio Not Tested!___
+**Working**
+- [x] Ethernet(LAN) 
+- [x] Wifi (sometime wont work in 1st boot)
+- [x] Intel UHD Graphics 630 + HDMI (sometime wont work in 1st boot) ___Audio Not Tested!___
 - [x] Screen brightness + fnkeys
-- [x] Audio (Speaker + Internal Mic + Headphone + External Mic)
+- [x] Audio (Speaker + Internal Mic + Headphone + External Mic) 
 - [x] All USB Port
-- [x] LAN + Wifi
 - [x] M.2 NVME + 2.5" HDD
 - [x] Battery status
 - [x] Sleep/Wake
-- [x] Keyboard + TouchPad gestures
-- [ ] Webcam
+- [x] Keyboard + 
+- [x] Webcam
+- [x]trackpad+gestures
 **Not work**
 - [ ] dGPU
 - [ ] Bluetooth
