@@ -17,8 +17,8 @@ my modify config that work with FX504GD i5 model
 |------------|-------------------------------|
 | Model | ASUS FX504GD |
 | BIOS Ver | 322 |
-| macOS | Big Sur Version 11.5.2 (Build 20G95) |
-| Dual boot OS | Windows 10 21H1 |
+| macOS | Monterey 12.2 (21D49)|
+| Dual boot OS | Windows 11 21H2 |
 | Processor | Intel Core i5 8300H |
 | Memory | 2x8GB DDR4 2666MHz |
 | Boot Drive | WD Black SN750 500 GB |
@@ -31,6 +31,7 @@ my modify config that work with FX504GD i5 model
 |------------|-------------------------------|
 | Sound | Realtek ALC255 |
 | HDD 2.5 | 1TB |
+| Trackpad | ELAND 1200 |
 
 **Works**
 - [x] Ethernet(LAN) 
