@@ -31,7 +31,7 @@ my modify config that work with FX504GD i5 model
 |------------|-------------------------------|
 | Sound | Realtek ALC255 |
 | HDD 2.5 | 1TB |
-| Trackpad | ELAND 1200 |
+| Trackpad | ELAN 1200 |
 
 **Works**
 - [x] Ethernet(LAN) 
